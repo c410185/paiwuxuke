@@ -1,0 +1,2 @@
+def squrmid(x, eplison):
+    
